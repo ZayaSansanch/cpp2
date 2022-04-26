@@ -1,0 +1,5 @@
+string watname();
+void wattest(string name);
+void hello();
+void write(string name, string var, int res, int otv1, int otv2, int otv3, int otv4);
+void test1(string name, string var);

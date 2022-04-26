@@ -1,0 +1,4 @@
+Name: levi, test: Zaya, result: 4, otvs: d, c, a, b
+Name: daria, test: Zaya, result: 2, otvs: d, b, b, b
+Name: Test, test: Zaya, result: 1, otvs: a, a, a, a
+Name: vasilisa, test: Zaya, result: 1, otvs: b, a, d, b
