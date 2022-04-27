@@ -1,0 +1,11 @@
+Name: testnorm, test: Zakn, result: 4, otvs: d, c, a, b
+Name: test, test: Zakn, result: 4, otvs: d, c, a, b
+Name: testnorm, test: Zakn, result: 2, otvs: c, d, c, a
+Name: testnorm, test: Zakn, result: 2, otvs: b, c, c, c
+Name: testnorm, test: Zakn, result: 3, otvs: b, d, c, a
+Name: test, test: Zakn, result: 4, otvs: d, c, a, b
+Name: test, test: Zaya, result: 4, otvs: d, c, a, b
+Name: testnorm, test: Zaya, result: 2, otvs: d, a, v, b
+Name: testnorm, test: Gekn, result: 3, otvs: c, a, b, d
+Name: testnorm, test: Gekn, result: 3, otvs: c, a, b, d
+Name: test, test: Gekn, result: 4, otvs: c, a, b, d

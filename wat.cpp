@@ -60,7 +60,7 @@ void wattest(string name) {
     bool whille1 = true;
     
     cout << "Тесты:" << endl;
-    cout << "A: Заися!" << endl;
+    cout << "A: Заися!          B: Законы!          C: Геккончики!" << endl;
     cin >> var;
 
     while (whille1 == true) {
@@ -69,8 +69,21 @@ void wattest(string name) {
             varitg = "Zaya";
             whille1 = false;;
             test1(name, varitg);
+        } if (var == "b" || var == "B") {
+            cout << "Законы!" << endl;
+            varitg = "Zakn";
+            whille1 = false;;
+            test2(name, varitg);
+        } if (var == "c" || var == "C") {
+            cout << "Геккончики!" << endl;
+            varitg = "Gekn";
+            whille1 = false;;
+            test3(name, varitg);
         } else {
             cout << "Wat you type?" << endl << endl;
+            cout << "Тесты:" << endl;
+            cout << "A: Заися!          B: Законы!" << endl;
+            cin >> var;
         }
     }
 }

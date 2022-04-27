@@ -1,4 +1,10 @@
 Name: levi, test: Zaya, result: 4, otvs: d, c, a, b
 Name: daria, test: Zaya, result: 2, otvs: d, b, b, b
-Name: Test, test: Zaya, result: 1, otvs: a, a, a, a
 Name: vasilisa, test: Zaya, result: 1, otvs: b, a, d, b
+Name: vlad, test: Zakn, result: 3, otvs: b, b, c, b
+Name: daria, test: Zakn, result: 2, otvs: b, a, c, d
+Name: vasilisa, test: Zakn, result: 0, otvs: d, c, a, d
+Name: Levi, test: Gekn, result: 3, otvs: c, a, bb, d
+Name: vasilisa, test: Gekn, result: 2, otvs: c, b, c, d
+Name: levi, test: Zakn, result: 4, otvs: c, b, c, b
+Name: daria, test: Gekn, result: 1, otvs: d, a, d, c
