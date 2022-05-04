@@ -29,8 +29,8 @@ string watname() {
             }
         }
 
-        while (name.find('^') != std::string::npos) {
-            cout << "Киррил, не балуйся, введи имя без '^'). Ваше имя?"  << endl;
+        while (name.find(',') != std::string::npos) {
+            cout << "Киррил, не балуйся, введи имя без ','). Ваше имя?"  << endl;
             cin >> name;
             cout << "" << endl;
 

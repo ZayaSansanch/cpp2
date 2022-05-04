@@ -1,0 +1,12 @@
+Zakn,d,c,a,b
+Zakn,d,c,a,b
+Zakn,c,d,c,a
+Zakn,b,c,c,c
+Zakn,b,d,c,a
+Zakn,d,c,a,b
+Zaya,d,c,a,b
+Zaya,d,a,v,b
+Gekn,c,a,b,d
+Gekn,c,a,b,d
+Gekn,c,a,b,d
+Gekn,c,a,b,d

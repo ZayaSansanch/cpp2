@@ -8,3 +8,6 @@ Name: Levi, test: Gekn, result: 3, otvs: c, a, bb, d
 Name: vasilisa, test: Gekn, result: 2, otvs: c, b, c, d
 Name: levi, test: Zakn, result: 4, otvs: c, b, c, b
 Name: daria, test: Gekn, result: 1, otvs: d, a, d, c
+Name: Vlad, test: Zaya, result: 3, otvs: d, c, b, b
+Name: Vlad, test: Zakn, result: 3, otvs: b, c, c, b
+Name: Vlad, test: Gekn, result: 2, otvs: b, a, d, d

@@ -8,3 +8,6 @@ Gekn^c^a^bb^d
 Gekn^c^b^c^d
 Zakn^c^b^c^b
 Gekn^d^a^d^c
+Zaya,d,c,b,b
+Zakn,b,c,c,b
+Gekn,b,a,d,d

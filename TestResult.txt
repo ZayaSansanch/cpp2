@@ -9,3 +9,6 @@ Name: testnorm, test: Zaya, result: 2, otvs: d, a, v, b
 Name: testnorm, test: Gekn, result: 3, otvs: c, a, b, d
 Name: testnorm, test: Gekn, result: 3, otvs: c, a, b, d
 Name: test, test: Gekn, result: 4, otvs: c, a, b, d
+Name: test, test: Gekn, result: 4, otvs: c, a, b, d
+Name: testnorm, test: Zaya, result: 4, otvs: d, c, a, b
+Name: test, test: Gekn, result: 4, otvs: c, a, b, d

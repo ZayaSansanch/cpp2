@@ -16,7 +16,7 @@ void write(string name, string var, int res, string otv1, string otv2, string ot
 
         std::ofstream OutSistem("ressistem.txt", std::ios::app);
         if (OutSistem.is_open()) {
-            OutSistem << var << "^" << otv1 << "^" << otv2 << "^" << otv3 << "^" << otv4 << std::endl;
+            OutSistem << var << "," << otv1 << "," << otv2 << "," << otv3 << "," << otv4 << std::endl;
         }
         OutSistem.close();
     }
