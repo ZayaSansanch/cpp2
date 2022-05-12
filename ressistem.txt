@@ -11,3 +11,6 @@ Gekn^d^a^d^c
 Zaya,d,c,b,b
 Zakn,b,c,c,b
 Gekn,b,a,d,d
+Zaya,a,a,a,a
+Zaya,DCXSDFGV,324354YUIKUJNBV,CD234536475U6I7OULKJMH,NBV132453645YUYIKJHMN
+Zaya,D,AS,AS,AS

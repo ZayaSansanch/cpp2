@@ -11,3 +11,6 @@ Name: daria, test: Gekn, result: 1, otvs: d, a, d, c
 Name: Vlad, test: Zaya, result: 3, otvs: d, c, b, b
 Name: Vlad, test: Zakn, result: 3, otvs: b, c, c, b
 Name: Vlad, test: Gekn, result: 2, otvs: b, a, d, d
+Name: tett, test: Zaya, result: 1, otvs: a, a, a, a
+Name: `12345teqw, test: Zaya, result: 0, otvs: DCXSDFGV, 324354YUIKUJNBV, CD234536475U6I7OULKJMH, NBV132453645YUYIKJHMN
+Name: W, test: Zaya, result: 1, otvs: D, AS, AS, AS
